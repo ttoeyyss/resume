@@ -1,0 +1,71 @@
+body{
+background-color: #F2F4F9;
+
+}
+
+h1{
+font-family: 'Mitr', sans-serif;
+}
+
+h2{
+font-family: 'Mitr', sans-serif;
+}
+
+h4{
+font-family: 'Mitr', sans-serif;
+}
+
+h5{
+font-family: 'Mitr', sans-serif;
+}
+
+p{
+font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+
+h6{
+font-family: 'Gabarito', cursive;
+}
+
+h4{
+  color: #F05D7B;
+}
+
+h2{
+  color: #071E48;
+}
+
+h5{
+  color: black;
+}
+
+h6{
+  color: white;
+}
+
+.my-bg{
+background-color: white;
+}
+
+.my-edu{
+text-transform: uppercase;
+  line-height: 30px;
+}
+
+.my-copy{
+background-color: #071E48;
+}
+
+.my-border{
+border-style: solid;
+  border-color: #F05D7B;
+  border-width: 1px;
+  border-radius: 10px;
+
+}
+
+.my-line{
+border-bottom: 1px solid black;
+border-top: 1px solid black;
+}
+

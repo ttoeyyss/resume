@@ -1,0 +1,9 @@
+Include lightbox’s CSS and JS. Place the <link> tag in the <head> for our CSS, and the <script> tag for JavaScript before the closing </body>.
+Example
+<link type="text/css" rel="stylesheet" href="css/lightbox.min.css">
+<script src="js/lightbox-plus-jquery.min.js"></script>
+
+
+Usage
+data-lightbox="Image Album"  - Add a data-lightbox attribute to any image link to enable Lightbox. For the value of the attribute, use a unique name for each image. 
+data-title="My caption"      - Add a data-title attribute if you want to show a caption.
